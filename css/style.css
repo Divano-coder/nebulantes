@@ -1,0 +1,63 @@
+.indent
+{
+  text-indent:1em;
+}
+main, header
+{
+  font-size: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: justify;
+}
+main
+{
+  font-family: 'EB Garamond', serif;
+  line-height: 30px;
+}
+.upper-space
+{
+  height: 200px;
+}
+.title
+{
+  text-transform: uppercase;
+  font-size: 25px;
+  text-align: center;
+  width:170px;
+  margin: auto;
+}
+.title-2
+{
+  border-bottom: solid 2px red;
+  width:130px;
+  margin: auto;
+}
+.sub-title
+{
+  font-size: 10px;
+  text-align: center;
+  font-style: italic;
+}
+.author
+{
+  font-family: 'Caveat', cursive;
+  text-align: right;
+  font-size: 15px;
+  padding-right: 80px;
+}
+p
+{
+  margin-bottom: -20px;
+}
+.chapter
+{
+  text-align: center;
+  margin-top: 150px;
+  text-transform: uppercase;
+}
+.capital:first-letter
+{
+float: left;
+font-size: 400%;
+margin-top: 25px;
+}
