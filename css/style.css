@@ -61,3 +61,8 @@ float: left;
 font-size: 400%;
 margin-top: 25px;
 }
+.time
+{
+  font-size: 10px;
+  text-align: right;
+}
