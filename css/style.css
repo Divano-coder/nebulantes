@@ -56,5 +56,7 @@ margin-top: 25px;
 }
 .time
 {
-  font-size: 10px;  
+  font-size: 15px;  
+  position:relative;
+  bottom:-150px;
 }
